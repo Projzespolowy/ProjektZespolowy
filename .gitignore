@@ -1,0 +1,8 @@
+*.mtx
+sample.json
+*.sln
+*.vcxproj
+.vs/*
+.vscode/*
+!Makefile
+matrix_mul_mkl
